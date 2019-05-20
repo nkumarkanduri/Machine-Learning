@@ -1,2 +1,2 @@
-# NorthEastern
+# Machine Learning
 Capstone projects
